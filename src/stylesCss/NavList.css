@@ -1,0 +1,15 @@
+
+.Nav a svg path {
+    fill: #deedff; 
+}
+
+.Nav a {
+    color: #eff7ff;
+}
+.Nav a:hover svg path  {
+   fill: #1e8bf8;
+}
+
+.Nav a:hover{
+    color: rgb(0, 115, 255);
+}

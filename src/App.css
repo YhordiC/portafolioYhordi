@@ -1,0 +1,11 @@
+.Imagine{
+    font-family: 'Dancing Script', cursive;
+    text-shadow: #f000ff 0.08em 0em 0.07em;
+    
+}
+
+@media (max-width:600px) {
+ div .inicio {
+    padding: 0;
+ }    
+}

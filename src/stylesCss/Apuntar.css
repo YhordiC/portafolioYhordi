@@ -1,0 +1,29 @@
+
+
+.apuntar a::after{
+ content: "";
+ position: absolute;
+ bottom: -5px;
+ height: 2.5px;
+ width: 100%;
+ left: 0;
+ background-color: wheat;
+ transition: background-color,transform;
+ transition: 0.3s;
+ transition-timing-function: ease-in-out;
+ 
+ transform:scaleX(0) ;
+}
+
+.apuntar a:hover::after{
+    transform: scaleX(1);
+    background-color: aqua;
+    
+}
+
+.apuntar a:hover { 
+    align-items: end;
+    color: aqua;
+    font-weight: 900;
+    ;
+}

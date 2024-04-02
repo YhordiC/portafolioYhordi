@@ -1,0 +1,6 @@
+.cont-otros{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,2fr));
+    gap: 17px;
+}
+

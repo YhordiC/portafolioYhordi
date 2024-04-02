@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "title": "View Space Web",
+        "description": "Podrás ver imanes en hd de las estrellas, cometas, planetas, cuerpos celestes y mucho mas.",
+        "funciones":[
+            "Solicitar API, mostrar respuestas en la pagina ViewSpace",
+            "La función de búsqueda por fecha",
+            "Diseño con Tailwind,Css y resposividad",
+            "Las vistas donde se mostraba detalles de las imágenes",
+            "El diseño UI de la pagina web"
+        ],
+        "tegnologias":[
+            "ReactJs","Vite","JavaScript","Tailwind","Css3","Html5","Git"
+        ],
+        "url":"https://view-space-web.netlify.app/",
+        "Portada":"https://live.staticflickr.com/65535/53627859418_11a78b50b0_h.jpg",
+        "Github":"https://github.com/YhordiC/nasaweb"
+    
+    
+        },
+
+        {
+            "id":2,
+            "title": "VerduMarket",
+            "description": "Es una application web para comprar y vender frutas, verduras, vegetales.",
+            "funciones":[
+              "Solicitar API, mostrar respuestas en la pagina verdumarket",
+              "Hacer la funcion del search, buscar según el nombre",
+              "Dar estilos a la pagina web con css y Tailwind ",
+              "Hacer la vista perfil de usuario, historial de comprar y dar estilos con tailwind"  
+            ],
+            "tegnologias":[
+                "ReactJs","Vite","Tailwind","JavaScript","git","Css3","Html5"
+            ],
+            "url":"",
+            "Portada":"https://live.staticflickr.com/65535/53628093900_0e19986c44_z.jpg",
+            "Github":"https://github.com/YhordiC/Verdu-Marke"
+        
+        
+            },
+    
+    {
+        "id":3,
+        "title": "Pokedex",
+        "description":"La pokedex para buscar a tus Pokemon's favoritos y sus características",
+        "funciones":
+         [ "Solicitar API, mostrar respuestas en la pagina",
+           "Diseño con Css y responsive",
+         "Diseño UI de la pagina"
+
+         ],
+        "tegnologias":["JavaScript","Html5","Css3","git"],
+        "url":"https://pokebox.netlify.app/",
+        "Portada":"https://i.ibb.co/Hgv0M8K/pokedex.png",
+        "Github":"https://github.com/YhordiC/pokedex"
+    },
+    
+    {"id":4,
+    "title":"Tres en rayas",
+    "description":"Un juego divertido, también conocido como el juego del gato",
+    "funciones":
+     ["Funcionalidades del juego",
+      "Diseño con Css y resposividad",
+       "Diseño UI de la pagina Web"
+
+     ],
+    "tegnologias":["ReactJs","JavaScript","Css3","Html5","git"],
+    "url":"https://tresrayas.netlify.app/",
+    "Portada":"https://i.ibb.co/CnT68sP/tresenraya.png",
+    "Github":"https://github.com/YhordiC/mi-aplicacion-cool"
+    },
+
+    {"id":5,
+    "title":"Vaccination",
+    "description":"Una pagina web farmacéutica,(sin funcionalidad )",
+    "funciones":["Diseño con Css", "Resposividad de la pagina web"],
+    "tegnologias":["Css3","Html5","git"],
+    "url":"https://vacunacion-company.netlify.app/",
+    "Portada":"https://i.ibb.co/1Q7n7Qb/vaccination.png",
+    "Github":"https://github.com/YhordiC/Campa-a-de-vacunacion"
+
+    }
+       
+    
+]
