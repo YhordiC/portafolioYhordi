@@ -4,7 +4,7 @@ export default function YhordiDev() {
     <div className='flex flex-col items-center gap-1 px-2'>
        <section className='flex gap-3 items-end mb-6'>
         <h2 className='text-5xl '
-        >Hey, soy Yhordi</h2>
+        >Hi, soy Yhordi</h2>
         <span className='text-sm bg-black 
            rounded-md p-2 text-green-400'
 
