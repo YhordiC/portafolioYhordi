@@ -29,7 +29,7 @@ function App() {
          <div className='flex flex-wrap 
          items-center justify-evenly   relative  -top-20  gap-3'>
 
-          <img src="https://live.staticflickr.com/65535/53627366502_66a7cf6136_b.jpg" 
+          <img src="https://live.staticflickr.com/65535/53629652678_558832ef17_b.jpg" 
           alt="imagen de portada" 
           className='w-[200px] rounded-full shadow-2xl  '  />
          <section id='quiensoy'  className='flex flex-col items-center gap-3 bg-violet-950 p-4 
