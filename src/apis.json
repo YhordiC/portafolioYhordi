@@ -80,7 +80,52 @@
     "Portada":"https://i.ibb.co/1Q7n7Qb/vaccination.png",
     "Github":"https://github.com/YhordiC/Campa-a-de-vacunacion"
 
-    }
-       
+    },
+    {
+    "id":6,
+    "title":"SaboresXPertos",
+    "description":"Una pagina web farmacéutica,(sin funcionalidad )aboresXpertos - Aplicación web enfocada en restaurantes que permite a los usuarios ver y dejar recomendaciones basadas en reseñas y calificaciones.",
+    "funciones":["hice la pagina de registrar usuario y para logear al usuario con resposividad y fiel al diseño del UI.",
+     "Hice el perfil de usuario que hace una petición al servidor por los datos del usuario, y añadí un formulario para cambiar los datos del usuario y subir una imagen de perfil"
+    ,"hice un componente de estrellas para poder dar calificaciones a los restaurantes",
+    "hice un carousel con los restaurantes que el usuario dio comentarios y calificaciones"],
+
+    "tegnologias":["Nextjs","TypeScript","Tailwind","JavaScript","git","GitHUb"],
+    "url":"",
+    "url_video":"/videos/saborexpertos.mp4",
+    "Portada":"/img/saboresxperto.png",
+    "Github":"https://github.com/YhordiC/SaboresXPertos"
+    },
+
+    {
+        "id":7,
+        "title":"Outfith de Halloween",
+        "description":"Es una aplicación que utiliza Inteligencia Artificial para cambiar el Outfith  a uno de temática Halloween.",
+        "funciones":["Utilice la Api de Cloudinary para enviar imágenes y mostrarlo en outfith",
+         "Utilice la api de cloudinary para utilizar su Inteligencia artificial integrada que remplazo secciones de la imagen que subió el usuario con temática de Halloween."
+        ,"Hice todo el diseño de la app web y resposividad"],
+    
+        "tegnologias":["Vite","JavaScript","Reactjs","Tailwind","Cloudinary","git","GitHUb"],
+        "url":"https://cloudinary-nu.vercel.app",
+        "url_video":"/videos/Outfithalloween.mp4",
+        "Portada":"/img/outfithalloween.png",
+        "Github":"https://github.com/YhordiC/cloudinary"
+        }
+,
+        {
+            "id":8,
+            "title":"Klowhub",
+            "description":"Es una aplicación para comprar y vender cursos, aplicaciones y proyectos",
+            "funciones":["Hice la pagina del login y el registro de usuario con un diseño responsivo",
+            "Hice un componente que tenia la función de poder guardar los cursos y aplicaciones que el usuario le interese comprar y añadirlos a carrito y que pueda eliminarlo cuando desee.",
+            "Hice la pagina donde se mostraba los items de carrito, el precio total de compra,descuentos, y el método de pago.",
+            "Ayude un componente para mostrar a los mentores y las aplicaciones "],
+        
+            "tegnologias":["Nextjs","TypeScript","JavaScript","Vercel","Tailwind","git","GitHUb"],
+            "url":"https://klowhub-six.vercel.app/",
+            "url_video":"",
+            "Portada":"/img/klowhub.png",
+            "Github":"https://github.com/YhordiC/klowhub-hackathon"
+            }
     
 ]
