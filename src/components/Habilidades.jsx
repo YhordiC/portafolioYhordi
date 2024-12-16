@@ -19,7 +19,7 @@ export default function Habilidades() {
       <p className="bg-slate-900 w-[10%] h-[10%] rounded-full absolute -right-4 bottom-[50%]">Git</p>
      </section>
      <img className="perfilhabilidades rounded-full  absolute top-[25%] left-[35%]  z-20" height={'10%'} width={'30%'} 
-     src="https://live.staticflickr.com/65535/53629652678_558832ef17_b.jpg"/>
+     src="/img/perfil.jpg"/>
      <section className=" habilidades2 absolute w-[60%] h-[60%] top-[10%] right-[20%]
        border-4  border-x-emerald-400 border-l-cyan-400 rounded-full z-10">
 
