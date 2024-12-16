@@ -1,5 +1,15 @@
-.contenido-proyecto{
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
-    gap: 25px;
+.contenido-proyecto::-webkit-scrollbar{
+    opacity: 0;
+    padding-top: 5px;
+background-color: rgba(240, 248, 255, 0.52);
+height: 5px;
+}
+.contenido-proyecto::-webkit-scrollbar{
+    opacity: 1;
+}
+.contenido-proyecto::-webkit-scrollbar-thumb{
+ opacity: 0;
+    background-color: rgb(43, 226, 189);
+    border-radius: 10px;
+    border: 5px solid transparent;
 }
