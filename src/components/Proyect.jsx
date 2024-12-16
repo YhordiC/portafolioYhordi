@@ -1,7 +1,7 @@
 
-export default function Proyect({URL_IMG,children,key}) {
+export default function Proyect({URL_IMG,children}) {
   return (
-    <li key={key} className=" justify-center  flex gap-2 
+    <li  className=" justify-center w-[300px]  gap-2 
      bg-slate-700  rounded-md flex-wrap shadow-xl ">
        <picture className=" p-2  w-full rounded-t-md">
         <img src={URL_IMG}  alt='Imagen de aplicación' 
